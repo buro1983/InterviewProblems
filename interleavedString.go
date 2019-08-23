@@ -78,3 +78,5 @@ func main() {
 
 	fmt.Println("Result:",findInterleavedString(strA, strB, strC))
 }
+
+// Result: true
