@@ -13,3 +13,4 @@ Refer here for [Tushar Roy Youtube dynamic programming](https://www.youtube.com/
 6. [interleavedString.go](https://github.com/buro1983/DynamicProgramming/blob/master/interleavedString.go): Find if a string is interleaved of two other strings
 7. [numOfPathsInMxNMatrix.go](https://github.com/buro1983/DynamicProgramming/blob/master/numOfPathsInMxNMatrix.go): Count all possible paths from top left to bottom right of a mXn matrix
 8. [boxstacking.go](https://github.com/buro1983/InterviewProblems/blob/master/DynamicProgramming/boxstacking.go): BoxStacking problem
+9. [coinChangingMinimumCoin.go](https://github.com/buro1983/InterviewProblems/blob/master/DynamicProgramming/coinChangingMinimumCoin.go): Coin changing problem
