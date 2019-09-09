@@ -12,3 +12,4 @@ Refer here for [Tushar Roy Youtube dynamic programming](https://www.youtube.com/
 5. [maxSumNonAdjacentElem.go](https://github.com/buro1983/DynamicProgramming/blob/master/maxSumNonAdjacentElem.go): Maximum sum such that no two elements are adjacent for array and circular array
 6. [interleavedString.go](https://github.com/buro1983/DynamicProgramming/blob/master/interleavedString.go): Find if a string is interleaved of two other strings
 7. [numOfPathsInMxNMatrix.go](https://github.com/buro1983/DynamicProgramming/blob/master/numOfPathsInMxNMatrix.go): Count all possible paths from top left to bottom right of a mXn matrix
+8. [boxstacking.go](https://github.com/buro1983/InterviewProblems/blob/master/DynamicProgramming/boxstacking.go): BoxStacking problem
